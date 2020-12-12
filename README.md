@@ -1,4 +1,4 @@
-# php8-jit
+# PHP 8 -jit Just IN Time Builder
 MandelBrot for PHP8 VS PHP7.x
 
 
