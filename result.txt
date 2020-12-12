@@ -1,0 +1,10 @@
+
+PHP version: 8.0.0 :  PHP Elapsed 0.437
+
+PHP version: 7.3.23-4+ubuntu20.04.1+deb.sury.org+1 :  PHP Elapsed 1.409
+
+PHP version: 7.1.33-24+ubuntu20.04.1+deb.sury.org+1 :  PHP Elapsed 1.390
+
+PHP version: 7.2.34-4+ubuntu20.04.1+deb.sury.org+1 :  PHP Elapsed 1.691
+
+PHP version: 7.4.12 :  PHP Elapsed 1.498
