@@ -10,10 +10,3 @@ MandelBrot for PHP8 VS PHP7.x
 /usr/bin/php7.1 -dopcache.enable_cli=1 -dopcache.jit_buffer_size=100 bench.php <br/>
 /usr/bin/php8.0 -dopcache.enable_cli=1 -dopcache.jit_buffer_size=100 bench.php <br/>
 
-
-# Build without JIT 
-/usr/bin/php7.4 bench.php <br/>
-/usr/bin/php7.3 bench.php <br/>
-/usr/bin/php7.2 bench.php <br/>
-/usr/bin/php7.1 bench.php <br/>
-/usr/bin/php8.0 bench.php <br/>
